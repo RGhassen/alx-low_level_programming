@@ -3,8 +3,8 @@
 /**
  * main - Entry point
  *
- * print a String
- * Return : Always 0 (Sucess)
+ * prints a String
+ * Return: Always 0 (Success)
  **/
 
 int main(void)
